@@ -1,0 +1,13 @@
+a)
+    1. Open the Run dialog:                                 Win + R
+    2. Type the following command in the Run box:           cmd
+    3. Open Command Prompt as administrator:                ctrl + shift + enter
+    4. Type the following command in the Command Prompt:    rundll32.exe sysdm.cpl,EditEnvironmentVariables
+    3. Add the Java bin directory to the path variable:     C:\Program Files\Java\jdk1.8.0_281\bin
+
+b)
+    1. Open the Run dialog:                                 Win + R
+    2. Type the following command in the Run box:           cmd
+    3. Open the Command Prompt as administrator:            ctrl + shift + enter
+    4. Type the following command in the Command Prompt:    javac
+    5. Type the following command in the Command Prompt:    java
